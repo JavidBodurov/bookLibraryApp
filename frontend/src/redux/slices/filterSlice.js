@@ -33,3 +33,5 @@ export const selectAuthorFilter = (state) => state.filter.author;
 export const selectOnlyFavoriteFilter = (state) => state.filter.onlyFavorite;
 
 export default filterSlice.reducer;
+
+
